@@ -1,0 +1,156 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sebastiao-lacerda.vercel.app/35103920/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Cerimônia no Palácio do Catete"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Título"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Cerimônia no Palácio do Catete"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Autoria desconhecida"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "circa 1925"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Material"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Negativo de vidro"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Instituto Moreira Salles"
+    },
+    "rights": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103920/a4079b4ee49cfcd98ba090686419efad/full/300,219/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://acervos.ims.com.br/portals/#/detailpage/116515",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103920/canvas/0",
+            "type": "Canvas",
+            "height": 3288,
+            "width": 4500,
+            "items": [
+                {
+                    "id": "https://sebastiao-lacerda.vercel.app/35103920/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sebastiao-lacerda.vercel.app/35103920/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://sebastiao-lacerda.vercel.app/35103920/canvas/0",
+                            "body": {
+                                "id": "https://sebastiao-lacerda.vercel.app/35103920/a4079b4ee49cfcd98ba090686419efad/full/1200,877/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3288,
+                                "width": 4500,
+                                "service": [
+                                    {
+                                        "id": "https://sebastiao-lacerda.vercel.app/35103920/a4079b4ee49cfcd98ba090686419efad",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "navPlace": {
+        "id": "https://sebastiao-lacerda.vercel.app/35103920/feature-collection/0",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://sebastiao-lacerda.vercel.app/35103920/feature/0",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        "-43.17262",
+                        "-22.92366"
+                    ]
+                },
+                "properties": {
+                    "label": [
+                        {
+                            "none": "Cerimônia no Palácio do Catete"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

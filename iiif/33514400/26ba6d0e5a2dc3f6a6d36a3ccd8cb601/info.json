@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://sebastiao-lacerda.vercel.app/33514400/26ba6d0e5a2dc3f6a6d36a3ccd8cb601",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 4500,
+  "height": 3164,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 211
+    },
+    {
+      "width": 1200,
+      "height": 844
+    }
+  ]
+}

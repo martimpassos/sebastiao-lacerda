@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sebastiao-lacerda.vercel.app/33514385/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Forte de Santa Rita"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Título"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Forte de Santa Rita"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Autoria desconhecida"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "circa 1915"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Material"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Negativo de vidro"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Perdas causadas por insetos"
+        ]
+    },
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Disponibilizado por Instituto Moreira Salles"
+    },
+    "rights": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514385/b911b70b678e5af81d4933d9c2d0f86c/full/300,219/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ],
+    "homepage": [
+        {
+            "id": "http://acervos.ims.com.br/portals/#/detailpage/107534",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514385/canvas/0",
+            "type": "Canvas",
+            "height": 3292,
+            "width": 4500,
+            "items": [
+                {
+                    "id": "https://sebastiao-lacerda.vercel.app/33514385/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sebastiao-lacerda.vercel.app/33514385/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://sebastiao-lacerda.vercel.app/33514385/canvas/0",
+                            "body": {
+                                "id": "https://sebastiao-lacerda.vercel.app/33514385/b911b70b678e5af81d4933d9c2d0f86c/full/1200,878/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 3292,
+                                "width": 4500,
+                                "service": [
+                                    {
+                                        "id": "https://sebastiao-lacerda.vercel.app/33514385/b911b70b678e5af81d4933d9c2d0f86c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "navPlace": {
+        "id": "https://sebastiao-lacerda.vercel.app/33514385/feature-collection/0",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://sebastiao-lacerda.vercel.app/33514385/feature/0",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        "-43.14384",
+                        "-22.93421"
+                    ]
+                },
+                "properties": {
+                    "label": [
+                        {
+                            "none": "Forte de Santa Rita"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

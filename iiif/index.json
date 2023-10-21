@@ -1,0 +1,1956 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sebastiao-lacerda.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Sebastião Lacerda"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484256/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja de São Sebastião dos Capuchinhos"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484257/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja de São Sebastião dos Capuchinhos; transladação dos restos mortais de Estácio de Sá"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484258/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - transladação dos restos mortais de Estácio de Sá"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484259/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484261/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Revolução de 1930 - Incêndio na torre do Jornal \"O Paiz\""
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514303/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo; amolador em frente à moradias e, ao fundo, o Palace Hotel"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514304/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo; moradias"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514305/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo em processo de demolição e os pavilhões da Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514306/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo em processo de demolição; visto da Rua México"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514307/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo e os pavilhôes da Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514308/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514309/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514310/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514311/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514312/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ilha Fiscal; tomada da Ilha das Cobras"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514313/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo; ao fundo, a Ilha Fiscal e o Palácio Tiradentes em construção"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514314/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514316/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514317/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo; tomada da Avenida Rio Branco"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514318/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514319/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514320/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo; tomada da atual Avenida Almirante Barroso"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514321/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514322/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do morro do Castelo; ao fundo, alguns pavilhões da Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514323/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514324/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo com uso de jatos de água"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514325/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo com uso de jatos de água"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514326/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514327/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514328/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514329/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514330/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514331/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514332/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514333/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514334/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514335/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514336/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514337/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514338/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514339/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514340/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514341/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514342/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514343/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo - trilhos para remoção da terra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514344/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Morro do Castelo; ao fundo, os pavilhões da Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514345/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514346/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - Pavilhão de Caça e Pesca"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514347/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição de 1922 - Aterro de Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514348/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - Esplanada do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514349/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514350/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514352/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Esplanada do Castelo - imediações do Museu Histórico Nacional"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514353/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Busto do Marechal Machado Bittencourt"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514354/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cais de Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514355/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Santa Luzia; ao fundo, o Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514356/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Esplanada do Castelo tomada da Rua Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514357/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vista para hotel na Praça XV de Novembro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514358/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Arco do Teles"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514359/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cadeia Velha, atual Palácio Tiradentes"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514360/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Almirante Barroso; Palace Hotel e o prédio do Jockey Club"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514361/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Passos - Igreja do Santíssimo Sacramento"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514362/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Abertura do túnel João Ricardo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514363/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Central, atual Rio Branco, tomada das imediações da Rua Pedro Lessa"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514364/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Construção da Cinelândia (Praça Marechal Floriano); e, ao fundo, os prédios do Conselho Municipal (atual Palácio Pedro Ernesto) e do Teatro Municipal"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514365/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Rio Branco; em primeiro plano, à esquerda, o prédio do Jornal da Brasil"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514366/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Rio Branco; Edifício da Norddeutscher Lloyd Bremen"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514367/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Rio Branco; edifícios do Jornal do Comércio e da Companhia Adriática de Seguros"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514368/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Rio Branco; prédios da Sociedade Sul Rio Grandense e de parte do Palace Hotel"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514369/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Rio Branco na altura da Rua Sete de Setembro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514370/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Rio Branco; iluminação noturna"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514371/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja Nossa Senhora do Carmo da Lapa do Desterro e parte do largo da Lapa"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514372/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Antigo edifício da Central do Brasil"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514373/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Quartel General do Campo da Aclamação - Ministério da Guerra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514374/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Palácio da Prefeitura"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514375/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Banhistas na praia da Glória"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514376/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja Nossa Senhora da Glória do Outeiro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514377/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Dois elefantes diante do Palácio do Catete"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514378/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Escola Militar da Praia Vermelha vista da Baía de Guanabara"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514379/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Hidroaviões na Enseada de Botafogo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514380/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Hidroaviões na Enseada de Botafogo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514381/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Homens assistem regata do Pavilhão Mourisco"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514382/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja Matriz de São João da Lagoa"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514383/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Casa de Rui Barbosa"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514384/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vista da Lagoa Rodrigo de Freitas"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514385/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Forte de Santa Rita"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514386/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Forte de Santa Rita"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514387/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fortaleza de Santa Cruz da Barra - vista para a cidade do Rio de Janeiro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514388/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Alberto Santos Dumont em frente à réplica do monumento de Ícaro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514389/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Getúlio Vargas em carro aberto durante o desfile de inauguração da Praça Paris"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514390/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Presidente Getúlio Vargas em almoço no Forte de São João"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514391/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Getúlio Vargas em comício da Aliança Liberal"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514392/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís com outros homens não identificados na sacada do Palácio do Catete"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514393/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís em carro aberto durante desfile"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514394/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Multidão reunida em torno de Washington Luís"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514395/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís, de chapéu na mâo, entre civis e militares"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514396/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís, ao centro de cartola, durante evento não identificado"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514397/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís, ao centro, entre civis e militares; ao fundo, a estátua equestre de Duque de Caxias"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514398/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís, ao centro, entre civis e militares"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514399/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís e Antônio Prado Jr. na Feira de Amostras"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514400/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Washington Luís e Antônio Prado Junior, entre outros, em inauguração da Avenida Praça de Itália, atual Avenida General Justo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514401/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Monumento Rodoviário Belvedere - presença de Washington Luís"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/33514402/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Concurso mundial de beleza; misses desfilam, sob a passarela, crianças espiam"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/34163055/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do morro do Castelo; destaque para a demolição da Cadeia Velha, atual Palácio Tiradentes"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103831/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja de São Sebastião dos Capuchinhos"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103832/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja de São Sebastião dos Capuchinhos; transladação dos restos mortais de Estácio de Sá"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103833/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja de São Zacarias e Diretoria de Metereologia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103834/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - torre do Observatório de Astronômia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103835/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vista tomada da torre da Igreja de São Francisco de Paula; ao fundo, o Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103836/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103837/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103838/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - ao fundo a Ilha de Villegaignon"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103839/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103840/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Rua no Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103841/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103842/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo visto da Ladeira da Misericórdia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103843/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103844/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103845/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103846/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103847/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103848/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo em processo de arrasamento"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103849/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103850/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103851/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103852/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103853/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - vista para a região da Praça XV de Novembro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103854/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja dos Jesuítas em processo de demolição"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103855/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo - Igreja dos Jesuítas em processo de demolição"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103856/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103857/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro do Castelo, vista para o Marcado do Peixe na Praça de XV de Novembro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Visita de Paulo de Frontin ao arrasamento do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103859/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - parte do Pavilhão do Distrito Federal e Pavilhão dos Estados"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103860/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - Pavilhão de Festas; ao fundo, o Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103861/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - Pavilhões da Finlândia e da Bélgica"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103862/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - Pavilhão de Caça e Pesca, Mercado Municipal, Ilha Fiscal e Ilha das Cobras"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103863/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Multidão durante a Exposição Internacional de 1922; ao fundo, o Morro do Pão de Açúcar"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103864/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Exposição Internacional de 1922 - Pavilhão de Caça e Pesca - fogos de artifício à noite"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103865/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fotaleza de Santiago"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103866/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ponta do Calabouço - Fortaleza de Santiago"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103867/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ponta do Calabouço e Fortaleza de Santiago - a partir da Avenida Beira-Mar"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103868/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pavilhões da Exposição Internacional de 1922; ao fundo; o Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103869/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103870/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103871/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Santa Luzia; ao fundo, o Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103872/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Santa Luzia, a partir da Avenida Beira-Mar"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103873/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Santa Luzia; ao fundo, o Palácio Monroe"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103874/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Santa Luzia; ao fundo, a Igreja de Santa Luzia e o Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103875/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103876/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de Nossa Senhora do Bonsucesso"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103877/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Obelisco do Valongo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103878/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ministério da Marinha - guindastes"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103879/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paço Imperial; ocupado pela Repartição Geral dos Telégrafos"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103880/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paço Imperial; ocupado pela Repartição Geral dos Telégrafos"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103881/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praça XV de Novembro; vista da torre da Igreja de Nossa Senhora do Carmo da Antiga Sé"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103882/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Teatro Phenix"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103883/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vista do centro da cidade tomada da esquina da Rua Sete de Setembro com Rua Primeiro de Março"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103884/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Esquina da Rua Buenos Aires com a Rua da Quitanda"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103885/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Rua Buenos Aires; prédio da Revista da Semana - Eu sei Tudo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103886/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Edifício do Banco Português do Brasil"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103887/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de São Pedro dos Clérigos"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103888/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ministério da Fazenda"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103889/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de Santa Rita"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103890/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ministério da Marinha - sede antiga"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103891/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Teatro João Caetano"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103892/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja da Venerável Ordem Terceira do Senhor Bom Jesus Calvário; Via Sacra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103893/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Lapa e de Santa Teresa vistas do Morro de Santo Antônio"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103894/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro de Santo Antônio visto da Rua Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103895/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vista do Morro de Santo Antônio a partir do Morro do Castelo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103896/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro de Santo Antônio visto a partir do largo da Carioca"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103897/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Convento de Santo Antônio"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103898/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Teatro Lírico"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103899/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Demolição do Teatro Lírico"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103900/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cine Pathé"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103901/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Palácio Monroe visto da Rua Santa Luzia"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103902/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Palácio Monroe visto da Avenida Beira-Mar"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103903/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Palácio Monroe visto do Passeio Público"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103904/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Palácio Monroe visto do Passeio Público"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103905/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Rua do Passeio; ao centro, o edifício do Automóvel Clube"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103906/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Esquina da Rua do Passeio com a Rua das Marrecas"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103907/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Portão da praça da República; na altura da Rua Buenos Aires"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103908/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Portão do Passeio Público"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103909/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja Nossa Senhora do Carmo da Lapa do Desterro"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103910/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de São Domingos Gusmão"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103911/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de São Domingos Gusmão"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103912/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de São Domingos Gusmão"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103913/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Parada militar - em frente ao Quartel General da Praça da República"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103914/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de Santo Antônio dos Pobres"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103915/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja de São Jorge vista do Campo da Aclamação (atual Campo de Santana)"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103916/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Igreja e Cemitério de São Francisco de Paula"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103917/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Entrada do Jardim Zoológico"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103918/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Monumento em homenagem a Almirante Barroso"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103919/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Largo e Outeiro da Glória"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103920/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cerimônia no Palácio do Catete"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103921/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Morro da Viúva; vista para a Baía de Guanabara"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103922/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Faculdade de Medicina"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103923/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Praia de Copacabana vista do Forte do Leme"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103924/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Escola José de Alencar, atual Colégio Estadual Amaro Cavalcanti"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103925/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Policlínica de Botafogo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103926/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Palácio Guanabara, antigo Paço Isabel"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103927/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Lagoa Rodrigo de Freitas e o Corte do Cantagalo"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103928/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Leblon e Lagoa Rodrigo de Freitas vistos da Estrada do Vidigal"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103929/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fortaleza de Santa Cruz da Barra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103930/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pão de Açúcar visto da Baía de Guanabara"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103931/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Farol da Ilha Rasa"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103932/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fortaleza de Santa Cruz da Barra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103933/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fortaleza de Santa Cruz da Barra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103934/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fortaleza de Santa Cruz da Barra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103935/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fortaleza de Santa Cruz da Barra"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103936/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Pedra de Itapuca"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103937/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Revolução de 1930; tropa gaúcha a cavalo em frente ao Palácio Monroe e ao Obelisco"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103938/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Revolução de 1930 ; tropa gaúcha a cavalo em frente ao obelisco da Avenida Rio Branco"
+                ]
+            }
+        },
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/35103939/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Rui Barbosa e Paulo de Frontin em meio à multidão em frente à navio"
+                ]
+            }
+        }
+    ]
+}
