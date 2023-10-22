@@ -76,11 +76,11 @@
     "rights": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
     "thumbnail": [
         {
-            "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/300,217/0/default.jpg",
+            "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/1200,869/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "width": 300,
-            "height": 217,
+            "width": 1200,
+            "height": 869,
             "service": [
                 {
                     "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940",
@@ -110,11 +110,11 @@
             "width": 4500,
             "thumbnail": [
                 {
-                    "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/300,217/0/default.jpg",
+                    "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/1200,869/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "width": 300,
-                    "height": 217,
+                    "width": 1200,
+                    "height": 869,
                     "service": [
                         {
                             "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940",
