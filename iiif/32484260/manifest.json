@@ -99,6 +99,13 @@
             "type": "Canvas",
             "height": 3260,
             "width": 4500,
+            "thumbnail": [
+                {
+                    "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/300,217/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
             "items": [
                 {
                     "id": "https://sebastiao-lacerda.vercel.app/32484260/canvas/0/annotation-page",
