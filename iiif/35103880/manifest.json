@@ -78,7 +78,9 @@
         {
             "id": "https://sebastiao-lacerda.vercel.app/35103880/63eec4c71eaf8dddc3d9aa3566f82d34/full/300,219/0/default.jpg",
             "type": "Image",
-            "format": "image/jpeg"
+            "format": "image/jpeg",
+            "height": 219,
+            "width": 300
         }
     ],
     "homepage": [
