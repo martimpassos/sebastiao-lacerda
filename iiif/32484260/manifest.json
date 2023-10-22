@@ -80,7 +80,14 @@
             "type": "Image",
             "format": "image/jpeg",
             "width": 300,
-            "height": 217
+            "height": 217,
+            "service": [
+                {
+                    "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940",
+                    "type": "ImageService3",
+                    "profile": "http://iiif.io/api/image/3/level0.json"
+                }
+            ]
         }
     ],
     "homepage": [
@@ -107,7 +114,14 @@
                     "type": "Image",
                     "format": "image/jpeg",
                     "width": 300,
-                    "height": 217
+                    "height": 217,
+                    "service": [
+                        {
+                            "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940",
+                            "type": "ImageService3",
+                            "profile": "http://iiif.io/api/image/3/level0.json"
+                        }
+                    ]
                 }
             ],
             "items": [
