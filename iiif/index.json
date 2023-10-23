@@ -7,6 +7,15 @@
             "Sebastião Lacerda"
         ]
     },
+    "thumbnail": [
+        {
+            "id": "https://sebastiao-lacerda.vercel.app/32484256/dd381fffcc17aca55971968c4ba379a7/full/218,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 218
+        }
+    ],
     "items": [
         {
             "id": "https://sebastiao-lacerda.vercel.app/32484256/manifest.json",
@@ -814,7 +823,7 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Forte de Santa Rita"
+                    "Fortaleza de Santa Cruz da Barra"
                 ]
             }
         },

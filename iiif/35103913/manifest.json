@@ -112,11 +112,11 @@
                             "motivation": "painting",
                             "target": "https://sebastiao-lacerda.vercel.app/35103913/canvas/0",
                             "body": {
-                                "id": "https://sebastiao-lacerda.vercel.app/35103913/d222b35fac0a39b9d8faa55607f78ff2/full/1200,875/0/default.jpg",
+                                "id": "https://sebastiao-lacerda.vercel.app/35103913/d222b35fac0a39b9d8faa55607f78ff2/full/2000,1458/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 3281,
-                                "width": 4500,
+                                "height": 1458,
+                                "width": 2000,
                                 "service": [
                                     {
                                         "id": "https://sebastiao-lacerda.vercel.app/35103913/d222b35fac0a39b9d8faa55607f78ff2",

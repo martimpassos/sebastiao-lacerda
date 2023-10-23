@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "Forte de Santa Rita"
+            "Fortaleza de Santa Cruz da Barra"
         ]
     },
     "metadata": [
@@ -16,7 +16,7 @@
             },
             "value": {
                 "none": [
-                    "Forte de Santa Rita"
+                    "Fortaleza de Santa Cruz da Barra"
                 ]
             }
         },
@@ -112,11 +112,11 @@
                             "motivation": "painting",
                             "target": "https://sebastiao-lacerda.vercel.app/33514386/canvas/0",
                             "body": {
-                                "id": "https://sebastiao-lacerda.vercel.app/33514386/e4a8c49fa470dcc97ac5c190bc70c834/full/1200,879/0/default.jpg",
+                                "id": "https://sebastiao-lacerda.vercel.app/33514386/e4a8c49fa470dcc97ac5c190bc70c834/full/2000,1465/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 3296,
-                                "width": 4500,
+                                "height": 1465,
+                                "width": 2000,
                                 "service": [
                                     {
                                         "id": "https://sebastiao-lacerda.vercel.app/33514386/e4a8c49fa470dcc97ac5c190bc70c834",
@@ -148,7 +148,7 @@
                 "properties": {
                     "label": [
                         {
-                            "none": "Forte de Santa Rita"
+                            "none": "Fortaleza de Santa Cruz da Barra"
                         }
                     ]
                 }

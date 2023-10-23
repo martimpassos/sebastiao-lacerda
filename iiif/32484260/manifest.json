@@ -101,22 +101,6 @@
             "type": "Canvas",
             "height": 3260,
             "width": 4500,
-            "thumbnail": [
-                {
-                    "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/300,217/0/default.jpg",
-                    "type": "Image",
-                    "format": "image/jpeg",
-                    "height": 217,
-                    "width": 300,
-                    "service": [
-                        {
-                            "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940",
-                            "type": "ImageService3",
-                            "profile": "http://iiif.io/api/image/3/level0.json"
-                        }
-                    ]
-                }
-            ],
             "items": [
                 {
                     "id": "https://sebastiao-lacerda.vercel.app/32484260/canvas/0/annotation-page",
@@ -128,11 +112,11 @@
                             "motivation": "painting",
                             "target": "https://sebastiao-lacerda.vercel.app/32484260/canvas/0",
                             "body": {
-                                "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/1200,869/0/default.jpg",
+                                "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940/full/2000,1449/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 3260,
-                                "width": 4500,
+                                "height": 1449,
+                                "width": 2000,
                                 "service": [
                                     {
                                         "id": "https://sebastiao-lacerda.vercel.app/32484260/dadd4f9f7f04f6eee3e40c0d1a5d6940",
