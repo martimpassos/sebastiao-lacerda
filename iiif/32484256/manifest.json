@@ -70,8 +70,8 @@
         }
     ],
     "requiredStatement": {
-        "label": "Atribuição",
-        "value": "Disponibilizado por Instituto Moreira Salles"
+        "label": {"none": ["Atribuição"]},
+        "value": {"none": ["Disponibilizado por Instituto Moreira Salles"]}
     },
     "rights": "http://rightsstatements.org/vocab/NoC-OKLR/1.0/",
     "thumbnail": [
